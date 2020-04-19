@@ -2,3 +2,4 @@
 ## 2020-02-15 17:01:46 - feat(model): implement model module (10/20)
 ## 2020-02-16 15:45:53 - feat(model): create model handler (10/20)
 ## 2020-03-15 11:39:24 - feat(docs): implement docs feature (13/20)
+## 2020-04-19 11:13:46 - feat(api): create api handler (10/20)
