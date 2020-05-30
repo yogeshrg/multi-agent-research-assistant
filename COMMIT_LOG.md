@@ -429,3 +429,4 @@
 ## 2020-05-02 14:19:36 - feat(security): add security endpoint (4/20)
 ## 2020-05-03 09:06:58 - feat(monitor): add monitor endpoint (6/20)
 ## 2020-05-03 15:03:40 - feat(alert): add alert support (20/20)
+## 2020-05-30 23:21:01 - feat(deploy): add deploy support (9/20)
