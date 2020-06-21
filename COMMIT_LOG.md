@@ -289,3 +289,4 @@
 ## 2020-05-03 09:06:58 - feat(monitor): add monitor endpoint (6/20)
 ## 2020-05-03 15:03:40 - feat(alert): add alert support (20/20)
 ## 2020-05-30 23:21:01 - feat(deploy): add deploy support (9/20)
+## 2020-06-21 21:44:08 - feat(test): implement test module (16/20)
