@@ -291,3 +291,4 @@
 ## 2020-05-30 23:21:01 - feat(deploy): add deploy support (9/20)
 ## 2020-06-21 21:44:08 - feat(test): implement test module (16/20)
 ## 2020-06-28 12:38:31 - feat(ci): implement ci feature (6/20)
+## 2020-07-05 23:48:33 - feat(worker): implement worker module (11/20)
