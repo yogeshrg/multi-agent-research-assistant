@@ -10,3 +10,4 @@
 ## 2020-06-21 21:44:08 - feat(test): implement test module (16/20)
 ## 2020-06-28 12:38:31 - feat(ci): implement ci feature (6/20)
 ## 2020-07-05 23:48:33 - feat(worker): implement worker module (11/20)
+## 2020-08-30 13:00:26 - feat(queue): add queue support (15/20)
