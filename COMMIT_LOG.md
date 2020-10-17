@@ -294,3 +294,4 @@
 ## 2020-07-05 23:48:33 - feat(worker): implement worker module (11/20)
 ## 2020-08-30 13:00:26 - feat(queue): add queue support (15/20)
 ## 2020-10-04 23:45:28 - feat(core): add core support (7/20)
+## 2020-10-17 09:31:20 - feat(docs): add docs support (2/20)
