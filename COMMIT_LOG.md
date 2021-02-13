@@ -437,3 +437,4 @@
 ## 2020-10-04 23:45:28 - feat(core): add core support (7/20)
 ## 2020-10-17 09:31:20 - feat(docs): add docs support (2/20)
 ## 2021-01-17 22:32:40 - feat(api): implement api feature (2/20)
+## 2021-02-13 20:24:48 - feat(security): create security handler (7/20)
