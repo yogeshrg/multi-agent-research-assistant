@@ -15,3 +15,4 @@
 ## 2020-10-17 09:31:20 - feat(docs): add docs support (2/20)
 ## 2021-01-17 22:32:40 - feat(api): implement api feature (2/20)
 ## 2021-02-13 20:24:48 - feat(security): create security handler (7/20)
+## 2021-02-20 09:47:47 - feat(db): add db support (8/20)
