@@ -158,3 +158,4 @@
 ## 2021-02-13 20:24:48 - feat(security): create security handler (7/20)
 ## 2021-02-20 09:47:47 - feat(db): add db support (8/20)
 ## 2021-03-06 11:13:29 - feat(ci): add ci support (15/20)
+## 2021-03-14 23:48:37 - feat(alert): create alert handler (10/20)
