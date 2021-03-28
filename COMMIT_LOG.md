@@ -583,3 +583,4 @@
 ## 2021-03-06 11:13:29 - feat(ci): add ci support (15/20)
 ## 2021-03-14 23:48:37 - feat(alert): create alert handler (10/20)
 ## 2021-03-20 20:20:26 - feat(model): add model support (18/20)
+## 2021-03-28 12:55:56 - feat(queue): create queue handler (15/20)
