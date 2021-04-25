@@ -585,3 +585,4 @@
 ## 2021-03-20 20:20:26 - feat(model): add model support (18/20)
 ## 2021-03-28 12:55:56 - feat(queue): create queue handler (15/20)
 ## 2021-04-04 12:20:19 - feat(security): implement security feature (4/20)
+## 2021-04-25 10:28:14 - feat(security): add security support (4/20)
