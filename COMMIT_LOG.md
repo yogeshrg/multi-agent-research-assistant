@@ -306,3 +306,4 @@
 ## 2021-04-25 10:28:14 - feat(security): add security support (4/20)
 ## 2021-05-01 22:27:30 - feat(docs): implement docs feature (3/20)
 ## 2021-05-30 13:22:11 - feat(worker): add worker support (3/20)
+## 2021-06-05 11:49:15 - feat(queue): create queue handler (18/20)
