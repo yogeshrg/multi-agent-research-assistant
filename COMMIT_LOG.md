@@ -594,3 +594,4 @@
 ## 2021-06-19 23:31:16 - feat(api): create api handler (12/20)
 ## 2021-06-21 10:11:48 - feat(queue): add queue endpoint
 ## 2021-07-03 18:22:47 - feat(deploy): add deploy endpoint (7/20)
+## 2021-07-24 15:58:17 - feat(metric): implement metric feature (20/20)
