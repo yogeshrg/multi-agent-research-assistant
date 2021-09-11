@@ -457,3 +457,4 @@
 ## 2021-08-21 09:54:06 - feat(auth): add auth endpoint (10/20)
 ## 2021-08-22 19:37:51 - feat(db): add db endpoint (9/20)
 ## 2021-09-06 23:53:09 - feat(infra): add infra endpoint
+## 2021-09-11 16:53:44 - feat(queue): add queue support (6/20)
