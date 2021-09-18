@@ -35,3 +35,4 @@
 ## 2021-08-22 19:37:51 - feat(db): add db endpoint (9/20)
 ## 2021-09-06 23:53:09 - feat(infra): add infra endpoint
 ## 2021-09-11 16:53:44 - feat(queue): add queue support (6/20)
+## 2021-09-18 09:52:06 - feat(data): implement data feature (7/20)
