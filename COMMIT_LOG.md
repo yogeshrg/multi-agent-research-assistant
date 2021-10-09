@@ -463,3 +463,4 @@
 ## 2021-09-19 23:32:39 - feat(monitor): add monitor endpoint (2/20)
 ## 2021-10-02 22:37:02 - feat(infra): implement infra module (4/20)
 ## 2021-10-03 21:27:01 - feat(core): implement core module (16/20)
+## 2021-10-09 21:30:45 - feat(docs): create docs handler (8/20)
