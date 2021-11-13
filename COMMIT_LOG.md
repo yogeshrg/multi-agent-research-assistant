@@ -186,3 +186,4 @@
 ## 2021-10-16 10:44:23 - feat(core): implement core module (3/20)
 ## 2021-10-16 15:15:09 - feat(monitor): implement monitor feature (7/20)
 ## 2021-11-06 20:33:39 - feat(ci): add ci endpoint (4/20)
+## 2021-11-13 14:50:26 - feat(security): create security handler (13/20)
