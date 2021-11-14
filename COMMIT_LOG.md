@@ -328,3 +328,4 @@
 ## 2021-10-16 15:15:09 - feat(monitor): implement monitor feature (7/20)
 ## 2021-11-06 20:33:39 - feat(ci): add ci endpoint (4/20)
 ## 2021-11-13 14:50:26 - feat(security): create security handler (13/20)
+## 2021-11-14 17:20:49 - feat(cache): add cache support (2/20)
