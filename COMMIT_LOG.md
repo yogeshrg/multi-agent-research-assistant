@@ -330,3 +330,4 @@
 ## 2021-11-13 14:50:26 - feat(security): create security handler (13/20)
 ## 2021-11-14 17:20:49 - feat(cache): add cache support (2/20)
 ## 2022-01-29 23:58:25 - feat(core): create core handler (18/20)
+## 2022-01-30 19:38:58 - feat(queue): add queue support (19/20)
