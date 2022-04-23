@@ -192,3 +192,4 @@
 ## 2022-01-30 19:38:58 - feat(queue): add queue support (19/20)
 ## 2022-02-26 16:48:13 - feat(data): add data endpoint (16/20)
 ## 2022-04-10 18:26:16 - feat(core): add core support (2/20)
+## 2022-04-23 16:03:41 - feat(security): create security handler (7/20)
