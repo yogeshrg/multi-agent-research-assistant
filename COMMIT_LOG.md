@@ -54,3 +54,4 @@
 ## 2022-04-23 16:03:41 - feat(security): create security handler (7/20)
 ## 2022-05-22 15:48:58 - feat(ui): add ui support (1/20)
 ## 2022-06-14 12:18:31 - feat(ci): add ci endpoint
+## 2022-06-18 11:20:43 - feat(test): implement test module (15/20)
