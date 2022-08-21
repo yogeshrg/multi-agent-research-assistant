@@ -620,3 +620,4 @@
 ## 2022-06-14 12:18:31 - feat(ci): add ci endpoint
 ## 2022-06-18 11:20:43 - feat(test): implement test module (15/20)
 ## 2022-07-17 16:55:14 - feat(log): add log support (19/20)
+## 2022-08-21 21:12:57 - feat(security): add security endpoint (4/20)
