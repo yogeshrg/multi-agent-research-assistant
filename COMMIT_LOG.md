@@ -199,3 +199,4 @@
 ## 2022-07-17 16:55:14 - feat(log): add log support (19/20)
 ## 2022-08-21 21:12:57 - feat(security): add security endpoint (4/20)
 ## 2022-09-11 23:56:26 - feat(log): create log handler (20/20)
+## 2022-09-17 21:21:58 - feat(monitor): implement monitor feature (20/20)
