@@ -61,3 +61,4 @@
 ## 2022-09-17 21:21:58 - feat(monitor): implement monitor feature (20/20)
 ## 2022-09-18 10:47:24 - feat(metric): add metric support (16/20)
 ## 2022-10-08 22:11:44 - feat(deploy): implement deploy feature (5/20)
+## 2022-10-09 11:43:38 - feat(test): add test endpoint (13/20)
