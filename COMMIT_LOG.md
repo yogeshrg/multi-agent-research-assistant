@@ -628,3 +628,4 @@
 ## 2022-10-09 11:43:38 - feat(test): add test endpoint (13/20)
 ## 2022-10-15 11:11:47 - feat(api): implement api feature (16/20)
 ## 2022-12-04 12:10:05 - feat(db): add db support (19/20)
+## 2022-12-12 14:51:39 - feat(log): create log handler
