@@ -488,3 +488,4 @@
 ## 2022-10-15 11:11:47 - feat(api): implement api feature (16/20)
 ## 2022-12-04 12:10:05 - feat(db): add db support (19/20)
 ## 2022-12-12 14:51:39 - feat(log): create log handler
+## 2023-01-01 14:55:58 - feat(db): add db endpoint (7/20)
