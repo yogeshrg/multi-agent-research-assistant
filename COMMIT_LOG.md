@@ -349,3 +349,4 @@
 ## 2022-12-12 14:51:39 - feat(log): create log handler
 ## 2023-01-01 14:55:58 - feat(db): add db endpoint (7/20)
 ## 2023-01-15 13:06:44 - feat(auth): add auth endpoint (14/20)
+## 2023-02-05 19:53:32 - feat(alert): create alert handler (15/20)
