@@ -76,3 +76,4 @@
 ## 2023-04-16 13:52:01 - feat(docs): add docs endpoint (5/20)
 ## 2023-05-21 11:34:46 - feat(test): add test endpoint (17/20)
 ## 2023-06-10 22:44:21 - feat(security): add security support (16/20)
+## 2023-06-11 20:56:33 - feat(metric): implement metric module (19/20)
