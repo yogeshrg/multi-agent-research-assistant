@@ -641,3 +641,4 @@
 ## 2023-05-21 11:34:46 - feat(test): add test endpoint (17/20)
 ## 2023-06-10 22:44:21 - feat(security): add security support (16/20)
 ## 2023-06-11 20:56:33 - feat(metric): implement metric module (19/20)
+## 2023-09-04 17:45:45 - feat(data): add data endpoint
