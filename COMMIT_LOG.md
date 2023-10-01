@@ -502,3 +502,4 @@
 ## 2023-06-11 20:56:33 - feat(metric): implement metric module (19/20)
 ## 2023-09-04 17:45:45 - feat(data): add data endpoint
 ## 2023-09-09 22:45:15 - feat(config): implement config module (5/20)
+## 2023-10-01 10:46:48 - feat(infra): create infra handler (14/20)
