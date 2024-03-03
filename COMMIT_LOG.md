@@ -514,3 +514,4 @@
 ## 2024-01-20 22:05:28 - feat(core): add core endpoint (1/20)
 ## 2024-02-03 20:56:43 - feat(metric): create metric handler (16/20)
 ## 2024-02-10 18:21:55 - feat(infra): create infra handler (6/20)
+## 2024-03-03 13:00:46 - feat(docs): add docs endpoint (15/20)
