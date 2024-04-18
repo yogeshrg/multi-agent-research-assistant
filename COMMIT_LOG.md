@@ -235,3 +235,4 @@
 ## 2024-03-03 13:00:46 - feat(docs): add docs endpoint (15/20)
 ## 2024-03-17 17:05:20 - feat(metric): add metric endpoint (16/20)
 ## 2024-04-07 18:12:54 - feat(ci): create ci handler (12/20)
+## 2024-04-18 10:49:55 - feat(model): create model handler
