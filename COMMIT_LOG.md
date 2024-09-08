@@ -99,3 +99,4 @@
 ## 2024-07-01 19:38:04 - feat(queue): implement queue feature
 ## 2024-07-20 11:38:20 - feat(infra): add infra support (7/20)
 ## 2024-08-11 20:37:28 - feat(auth): implement auth module (6/20)
+## 2024-09-08 16:14:02 - feat(core): implement core feature (1/20)
