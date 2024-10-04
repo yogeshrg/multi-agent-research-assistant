@@ -102,3 +102,4 @@
 ## 2024-09-08 16:14:02 - feat(core): implement core feature (1/20)
 ## 2024-09-29 22:54:07 - feat(db): add db support (17/20)
 ## 2024-10-03 11:03:13 - feat(data): implement data feature
+## 2024-10-04 16:17:30 - feat(ui): create ui handler
