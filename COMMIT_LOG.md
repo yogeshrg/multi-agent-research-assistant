@@ -539,3 +539,4 @@
 ## 2025-05-03 14:37:48 - feat(deploy): create deploy handler (10/20)
 ## 2025-06-07 17:03:50 - feat(docs): add docs support (7/20)
 ## 2025-06-07 17:35:02 - feat(security): create security handler (12/20)
+## 2025-06-07 21:54:07 - feat(docs): add docs endpoint (2/20)
