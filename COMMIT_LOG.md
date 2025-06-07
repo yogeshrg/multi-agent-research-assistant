@@ -114,3 +114,4 @@
 ## 2025-03-22 22:43:25 - feat(model): implement model module (18/20)
 ## 2025-04-12 20:11:27 - feat(infra): implement infra module (5/20)
 ## 2025-05-03 14:37:48 - feat(deploy): create deploy handler (10/20)
+## 2025-06-07 17:03:50 - feat(docs): add docs support (7/20)
