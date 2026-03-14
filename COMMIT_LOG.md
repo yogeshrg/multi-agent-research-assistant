@@ -412,3 +412,4 @@
 ## 2025-12-20 10:37:53 - feat(infra): create infra handler (2/20)
 ## 2026-01-03 23:30:36 - feat(test): implement test module (1/20)
 ## 2026-01-04 18:32:10 - feat(alert): implement alert module (12/20)
+## 2026-03-14 18:14:34 - feat(core): add core support (2/20)
